@@ -125,5 +125,5 @@ Linux 原生的 tcp rtt 是算法持续平滑的,不满足要求. Linux 还有 m
 ### 实际应用
 实际应用一般采用多种指标/方式共同判断, 如结合 IP 信息库, mtu 等
 
-### CREDIT
-https://github.com/YCCDSZXH/proxy-checker-rs
+### Inspired by
+*   [YCCDSZXH/proxy-checker-rs](https://github.com/YCCDSZXH/proxy-checker-rs)
